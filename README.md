@@ -1,4 +1,4 @@
-# JavaScript-Notes
+# JavaScript-Notes  (Jonas Schmedtmann, Udemy)
 
 Remaining lectures:
 
